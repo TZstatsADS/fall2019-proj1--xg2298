@@ -9,10 +9,15 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2019
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Why Jazz become less common nowadays?
++ This project is conducted by [Xin Gao]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: After reading report from website, I noticed that jazz has become the least-listen to music in the U.S..I try to figure out possible rasons for that in this project. I did some fundatmental analysis, such as tracking the proportion changes of each genre,sentiment analysis on jazz and hip-hop music, change of word usage, etc. At the end, I provide three possible reasons for the less popularity of jazz music. 
++      1. The rise of other types of music which occupy the market. 
+
++      2. Recently, people prefer to express negative feelings more. Jazz music is not their first choice to listen.
+
++      3. People like to try out the new things. Using slangs make them feel cool.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
